@@ -1,0 +1,23 @@
+<datas date="2014-06-01">
+	<data timecode="0" lot="1234567">
+		<offset>1</offset>
+		<pressure>213</pressure>
+		<layout>33</layout>
+		<component>Yotis2</component>
+		<colorbound>Blue</colorbound>
+		<quality>Low</quality>
+		<performance>High</performance>
+		<result>0</result>
+	</data>
+	
+	<data timecode="1" lot="1234567">
+		<offset>13</offset>
+		<pressure>200</pressure>
+		<layout>35</layout>
+		<component>Yotis3</component>
+		<colorbound>Green</colorbound>
+		<quality>High</quality>
+		<performance>High</performance>
+		<result>0</result>
+	</data>
+</datas>
